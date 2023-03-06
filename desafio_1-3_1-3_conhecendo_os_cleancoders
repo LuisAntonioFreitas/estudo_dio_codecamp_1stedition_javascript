@@ -11,4 +11,4 @@ let id = parseInt(gets());
 
 //TODO: Print no console as três variáveis de acordo com a saída esperada
 
-console.log(`Nome: ${nome} ${sobrenome} ID: ${id}`);
+print(`Nome: ${nome} ${sobrenome} ID: ${id}`);
